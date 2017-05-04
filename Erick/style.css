@@ -1,0 +1,159 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+ul, ol {
+	list-style: none;
+}
+
+.a > li a {
+	float:left;
+}
+
+.a li a {
+	background-image: url(img/transparente5.png);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	margin-left: 2%;
+	color:white;
+	text-decoration: none;
+	padding: 10px 18px;
+	display: block;
+	font-family:castellar;
+	border-radius: 30%;
+
+}
+
+.a ul {
+	position: absolute;
+}
+
+.a li a:hover {
+	background: #0F2534;
+	color: #EDFFBE;
+}
+
+.a li ul {
+	display: none;
+	position: absolute;
+	min-width: 200px;
+}
+
+.f{
+	background-image: url(img/fondo1.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+.par{
+	background-image: url(img/transparente2.png);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 70%;
+	margin-top: 5%;
+	margin-left: 2%;
+	color: white;
+	height: 900px;
+	font-family: Algerian;
+	float: left;
+	margin-bottom: 2em;
+
+}
+
+.pa{
+	background-image: url(img/transparente2.png);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 25%;
+	margin-right: 1em;
+	margin-top: 5%;
+	color: white;
+	height: 900px;
+	float: right;
+}
+
+.foto{
+	margin-top: 6%;
+		border-radius: 2em 2em 2em 2em;
+}
+
+.soy{
+	background-image: url(img/fondo2.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+
+}
+
+
+.pac{
+	background-image: url(img/transparente1.png);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 70%;
+	margin-top: 5%;
+	margin-left: 2%;
+	color: white;
+	height: 1200px;
+	font-family: Algerian;
+	float: left;
+	margin-bottom: 2em;
+	border-radius: 3em 3em 3em 3em;
+
+}
+
+.pat{
+	background-image: url(img/transparente1.png);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 25%;
+	margin-top: 5%;
+	margin-right: 1em;
+	color: white;
+	height: 1200px;
+	float: right;
+	border-radius: 3em 3em 3em 3em;
+}
+
+.z{
+	background-image: url(img/fondo3.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+.ule{
+	background-image: url(img/transparente5.png);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 70%;
+	margin-top: 5%;
+	margin-left: 2%;
+	color: white;
+	height: 900px;
+	font-family: Algerian;
+	float: left;
+	margin-bottom:  2em;
+
+}
+
+.ola{
+	background-image: url(img/transparente5.png);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 25%;
+	margin-top: 5%;
+	margin-right: 1em;
+	color: white;
+	height: 900px;
+	float: right;
+	margin-bottom: 2em;
+}
+
+h1{
+	color: white;
+}
+
+img{
+	border-radius: 5em 5em 5em 5em;
+	opacity: 0.8;
+}
